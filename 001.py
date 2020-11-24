@@ -3,7 +3,6 @@ import struct
 import scipy.misc#目前scipy版本是1.1.0，如果版本过高会导致imsave无法调用，可以用pip方式更换版本
 #一下路径都是绝对路径，可以自由替换
 filename = 'C:/Users/Administrator/Desktop/data/train-images.idx3-ubyte'
-#filename = 'C:/Users/haoming/Desktop/train-images-idx3-ubyte'
 filename1 = 'C:/Users/Administrator/Desktop/data/train-labels.idx1-ubyte'
 def t10k(args):
     pass
