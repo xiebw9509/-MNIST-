@@ -1,4 +1,4 @@
-# -MINST-
+# -MNIST-
 提取训练集的60000张图片（jpg）
 一.数据集名称为（以下4个）：
 train-images-idx3-ubyte: training set images
